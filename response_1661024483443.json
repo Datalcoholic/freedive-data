@@ -1,0 +1,204 @@
+[
+  [
+    {
+      "Date": "2009-06-08",
+      "Depth_m": "–",
+      "Discipline": "Static apnea (STA)",
+      "Distance_m": "–",
+      "Gender": "Men",
+      "Name": "Stéphane Mifsud (FRA)",
+      "Place": "Hyères, Var, France",
+      "Time": "11 min 35 sec"
+    },
+    {
+      "Date": "2013-06-29",
+      "Depth_m": "–",
+      "Discipline": "Static apnea (STA)",
+      "Distance_m": "–",
+      "Gender": "Women",
+      "Name": "Natalia Molchanova (RUS)",
+      "Place": "Belgrade, Serbia",
+      "Time": "9 min 02 sec"
+    },
+    {
+      "Date": "2019-06-22",
+      "Depth_m": "–",
+      "Discipline": "Dynamic apnea with fins (DYN)",
+      "Distance_m": "316.53",
+      "Gender": "Men",
+      "Name": "Mateusz Malina (POL)[37]",
+      "Place": "Turku, Finland",
+      "Time": "–"
+    },
+    {
+      "Date": "2019-10-13",
+      "Depth_m": "–",
+      "Discipline": "Dynamic apnea with fins (DYN)",
+      "Distance_m": "257",
+      "Gender": "Women",
+      "Name": "Magdalena Solich-Talanda (POL)",
+      "Place": "Vienna, Austria",
+      "Time": "–"
+    },
+    {
+      "Date": "2019-10-13",
+      "Depth_m": "–",
+      "Discipline": "Dynamic apnea with bifins (DYNB)",
+      "Distance_m": "250",
+      "Gender": "Men",
+      "Name": "Mateusz Malina (POL)",
+      "Place": "Vienna, Austria",
+      "Time": "–"
+    },
+    {
+      "Date": "2019-03-07",
+      "Depth_m": "–",
+      "Discipline": "Dynamic apnea with bifins (DYNB)",
+      "Distance_m": "208",
+      "Gender": "Women",
+      "Name": "Kardasevic Mirela (CRO)",
+      "Place": "Moscow, Russia",
+      "Time": "–"
+    },
+    {
+      "Date": "2016-07-02",
+      "Depth_m": "–",
+      "Discipline": "Dynamic apnea without fins (DNF)",
+      "Distance_m": "244",
+      "Gender": "Men",
+      "Name": "Mateusz Malina (POL)",
+      "Place": "Turku, Finland",
+      "Time": "–"
+    },
+    {
+      "Date": "2017-07-01",
+      "Depth_m": "–",
+      "Discipline": "Dynamic apnea without fins (DNF)",
+      "Distance_m": "191",
+      "Gender": "Women",
+      "Name": "Magdalena Solich-Talanda (POL)",
+      "Place": "Opole, Poland",
+      "Time": "–"
+    },
+    {
+      "Date": "2018-07-18",
+      "Depth_m": "130",
+      "Discipline": "Constant weight apnea (CWT)",
+      "Distance_m": "–",
+      "Gender": "Men",
+      "Name": "Alexey Molchanov (RUS)",
+      "Place": "Dean's Blue Hole, Long Island Bahamas",
+      "Time": "–"
+    },
+    {
+      "Date": "2020-11-13",
+      "Depth_m": "114",
+      "Discipline": "Constant weight apnea (CWT)",
+      "Distance_m": "–",
+      "Gender": "Women",
+      "Name": "Alenka Artnik (SVN)[38]",
+      "Place": "Sharm el-Sheikh, Red sea, Egypt",
+      "Time": "–"
+    },
+    {
+      "Date": "2019-08-05",
+      "Depth_m": "110",
+      "Discipline": "Constant weight apnea with bifins (CWTB)",
+      "Distance_m": "–",
+      "Gender": "Men",
+      "Name": "Alexey Molchanov (RUS)",
+      "Place": "West Bay Roatan, Honduras",
+      "Time": "–"
+    },
+    {
+      "Date": "2019-8-10",
+      "Depth_m": "93",
+      "Discipline": "Constant weight apnea with bifins (CWTB)",
+      "Distance_m": "–",
+      "Gender": "Women",
+      "Name": "Nataliia Zharkova (UKR)",
+      "Place": "West Bay Roatan, Honduras",
+      "Time": "–"
+    },
+    {
+      "Date": "2016-07-20",
+      "Depth_m": "102",
+      "Discipline": "Constant weight apnea without fins (CNF)",
+      "Distance_m": "–",
+      "Gender": "Men",
+      "Name": "William Trubridge (NZL)",
+      "Place": "Dean's Blue Hole, Long Island Bahamas",
+      "Time": "–"
+    },
+    {
+      "Date": "2016-04-26",
+      "Depth_m": "73",
+      "Discipline": "Constant weight apnea without fins (CNF)",
+      "Distance_m": "–",
+      "Gender": "Women",
+      "Name": "Alessia Zecchini (ITA)",
+      "Place": "Dean's Blue Hole, Long Island Bahamas",
+      "Time": "–"
+    },
+    {
+      "Date": "2018-07-24",
+      "Depth_m": "125",
+      "Discipline": "Free immersion apnea (FIM)",
+      "Distance_m": "–",
+      "Gender": "Men",
+      "Name": "Alexey Molchanov (RUS)",
+      "Place": "Dean's Blue Hole, Long Island Bahamas",
+      "Time": "–"
+    },
+    {
+      "Date": "2019-10-16",
+      "Depth_m": "98",
+      "Discipline": "Free immersion apnea (FIM)",
+      "Distance_m": "–",
+      "Gender": "Women",
+      "Name": "Alessia Zecchini (ITA)",
+      "Place": "Willemstad, Curaçao",
+      "Time": "–"
+    },
+    {
+      "Date": "2015-11-01",
+      "Depth_m": "146",
+      "Discipline": "Variable weight apnea (VWT)",
+      "Distance_m": "–",
+      "Gender": "Men",
+      "Name": "Stavros Kastrinakis (GRE)",
+      "Place": "Kalamata, Greece",
+      "Time": "–"
+    },
+    {
+      "Date": "2015-10-18",
+      "Depth_m": "130",
+      "Discipline": "Variable weight apnea (VWT)",
+      "Distance_m": "–",
+      "Gender": "Women",
+      "Name": "Nanja van den Broek (NED)",
+      "Place": "Sharm el-Sheikh, Egypt",
+      "Time": "–"
+    },
+    {
+      "Date": "2012-06-06",
+      "Depth_m": "214",
+      "Discipline": "No-limits apnea (NLT)",
+      "Distance_m": "–",
+      "Gender": "Men",
+      "Name": "Herbert Nitsch (AUT)",
+      "Place": "Santorini, Greece",
+      "Time": "–"
+    },
+    {
+      "Date": "2002-08-17",
+      "Depth_m": "160",
+      "Discipline": "No-limits apnea (NLT)",
+      "Distance_m": "–",
+      "Gender": "Women",
+      "Name": "Tanya Streeter (UK)",
+      "Place": "Turks and Caicos",
+      "Time": "–"
+    }
+  ]
+]
